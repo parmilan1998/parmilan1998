@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **React Native and Python**
 - 👯 I’m looking to collaborate on **React Frontend Projects**
 - 📫 How to reach me: 
-- 😄 Pronouns: He/Him
 
 ## About me
 I am currently pursuing a Computer Science degree at Uva Wellassa University in Sri Lanka, where my academic journey is focused on developing a solid foundation in various aspects of computer science. I have a keen interest in web and app development.
