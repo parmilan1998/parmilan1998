@@ -14,7 +14,7 @@ I am currently pursuing a Computer Science degree at Uva Wellassa University in 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parmilan1998&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=parmilan1998&theme=swift&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parmilan1998&theme=swift&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmilan1998&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
