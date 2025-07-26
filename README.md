@@ -3,7 +3,7 @@
 🔭 I’m currently working on React Projects<br>🌱 I’m currently learning React Native and Python<br>👯 I’m looking to collaborate on React & Node Projects<br>📫 How to reach me: parmilancs2024@gmail.com
 
 # 💫 About Me:
-Software Engineer at Invicta Innovation Pvt Ltd | Sri Lanka
+Software Engineer at Invicta Innovation Pvt Ltd | Sri Lanka. </br>
 Passionate about building scalable, high-quality software solutions that drive innovation and deliver real value.
 
 # 💻 Tech Stack:
@@ -16,7 +16,6 @@ Passionate about building scalable, high-quality software solutions that drive i
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parmilan1998&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parmilan1998&limit=5&theme=darcula&combine_all_yearly_contributions=true)
