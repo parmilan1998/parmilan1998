@@ -11,8 +11,8 @@ Passionate about building scalable, high-quality software solutions that drive i
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parmilan1998&theme=darcula&hide_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=parmilan1998&theme=darcula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parmilan1998&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=parmilan1998&theme=darcula&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parmilan1998&limit=5&theme=darcula&combine_all_yearly_contributions=true)
